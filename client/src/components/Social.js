@@ -9,10 +9,10 @@ const Social = () => {
 
   return (
     <div className='social-icons'>
-    <a href="https://www.instagram.com/aman_sah_1016/" rel='norefer' ><img src={InstaIcon} alt="" /></a>
-    <a href="https://m.facebook.com/aman.sah.397948?ref=bookmarks" ><img src={FacebookIcon} alt="" /></a>
-    <a href="https://www.linkedin.com/in/aman-kr-poddar-7ab5bb202/" ><img src={LinkedIn} alt="" /></a>
-    <a href="https://github.com/Am10aN16" ><img src={Github} alt="" /></a>
+      <a href="https://www.instagram.com/justt.samyak" rel='norefer' ><img src={InstaIcon} alt="" /></a>
+      <a href="https://www.facebook.com/profile.php?id=100007721321905" ><img src={FacebookIcon} alt="" /></a>
+      <a href="https://www.linkedin.com/in/samyakjain507/" ><img src={LinkedIn} alt="" /></a>
+      <a href="https://github.com/Samyak507" ><img src={Github} alt="" /></a>
         
        
        

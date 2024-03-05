@@ -2,7 +2,7 @@
 
 import React,{ useEffect, useState } from "react";
 import "bootstrap/dist/css/bootstrap.css";
-import Aman from "../images/aman.JPG";
+import Samyak from "../images/samyak.jpg";
 import dummy from "../images/dummy.jpg";
 // import HomeVideo from "../video/background2.mp4";
 import { useNavigate } from "react-router-dom";
@@ -50,7 +50,7 @@ useEffect(()=>{
         <form method='GET'>
           <div className='row'  >
             <div className='col-md-3'>
-              <img src={userData.name==="Aman Sah" ? Aman : dummy} alt='aman' />
+              <img src={userData.name==="Samyak Jain" ? Samyak : dummy} alt='Samyak' />
             </div>
             <div className="row col-md-8">
                 <div className="row mt-4">
